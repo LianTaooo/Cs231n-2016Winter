@@ -10,5 +10,5 @@ Deep Learning  Stanford
 
 ### 3 Assignment Code from official website
 
-### 4 My prictice
+### 4 My Practice
         Assignment_lt
